@@ -1,0 +1,18 @@
+{
+  "hotels": [
+    {
+      "name": "InTourist",
+      "city": "Batumi",
+      "region": "Achara",
+      "price": "250$",
+      "persons": "2",
+      "address": "Gorki Street",
+      "room": " 2",
+      "rating": " 11",
+      "date": "2021-07-02T13:17:27.493Z",
+      "description": " Great Hotel",
+      "url1": "https://cdn4.hotelopia.com/giata/bigger/63/632336/632336a_hb_a_001.jpg",
+      "id": 1
+    }
+  ]
+}

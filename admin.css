@@ -1,0 +1,32 @@
+
+.header-styles {
+    border:1px solid rgb(24, 149, 153); 
+    display:flex;
+    margin-top:11px;
+}
+
+.card-link-edit {
+    font-size:21px;
+    text-decoration: none;
+}
+.card-link-edit:hover {
+    color:#e75c1b;
+}
+
+.card-link-delete {
+    margin-left:21px;
+    font-size:21px;
+    text-decoration: none;
+    transform:translateY('41px');
+}
+.card-link-delete:hover {
+    color:#e75c1b;
+
+}
+
+
+.image-style {
+    width:111px;
+    height:111px;
+    
+}

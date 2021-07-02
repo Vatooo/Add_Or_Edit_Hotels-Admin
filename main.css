@@ -1,0 +1,101 @@
+
+body {
+    background-color:#222;
+}
+
+form {
+    width:550px;
+    height:550px;
+    margin:auto;
+    padding:100px;
+    background-image: url("bg_form.jpg");
+    border-radius:11px;
+}
+
+input {
+    width:140px;
+    height:30px;
+    border-radius:21px;
+    border:0px solid red;
+    outline: none;
+    margin-top:21px;
+    padding:5px;
+    padding-left:11px;
+    font-size:21px;
+}
+#email {
+    width:170px;
+}
+
+
+textarea {
+    width:450px;
+    height:70px;
+    margin:21px auto;
+    border-radius:11px;
+    font-size:21px;
+    padding:21px;
+}
+
+
+#btn  {
+   margin-top:0px;
+   width:170px;
+   height:30px;
+   background-color:#FFCA2C;
+   color:rgb(0, 0, 0);
+   border:0px;
+   border-radius:21px;
+   font-weight: 700;
+   font-size:21px;
+   margin-left:111px;
+}
+#imageFile{
+    width:auto;
+}
+
+.imageStyle {
+    width:111px;
+    height:111px;
+    border-radius: 111px;
+    
+
+}
+
+
+.bio-placeholder {
+    width:550px;
+    height:auto;
+    margin:21px auto;
+    background-color:#EF6B3B;
+    text-align: center;
+    color:white;
+    font-size:21px;
+}
+
+
+.hotel-style {
+    width:100%;
+    height:auto;
+    border:3px solid black;
+}
+
+.admin-place {
+    width:100%;
+    height:auto;
+    text-align: right;
+}
+
+.admin {
+    text-decoration: none;
+    color:rgb(223, 69, 69);
+    font-size:31px;
+    margin-right:37px;
+    margin-top:37px;
+}
+
+#image-url {
+    width:100%;
+    height:37px;
+
+}
